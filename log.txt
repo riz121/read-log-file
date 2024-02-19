@@ -1,0 +1,17 @@
+hjhghj hjkhkjhjh kjhjhjhkj hjhlhj jhklhlkh
+kljkljk;n klkjk lkh ,bu ,nbub kjh kj
+19a40:	66f6470b	lrd	a4,a2,a5,3
+19a40:	66f6470b	beqz	a4,a2,a5,3
+19a40:	66f6470b	sext.w	a4,a2,a5,3
+19a40:	66f6470b	addi	a4,a2,a5,3
+19a40:	66f6470b	bne	a4,a2,a5,3
+19a40:	66f6470b	li	a4,a2,a5,3
+19a40:	66f6470b	jal	a4,a2,a5,3
+19a40:	66f6470b	beqz	a4,a2,a5,3
+19a40:	66f6470b	swd	a4,a2,a5,3
+19a40:	66f6470b	addi	a4,a2,a5,3
+19a40:	66f6470b	li	a4,a2,a5,3
+19a40:	66f6470b	ldd	a4,a2,a5,3
+19a40:	66f6470b	lwd	a4,a2,a5,3
+19a40:	66f6470b	fld	a4,a2,a5,3
+
